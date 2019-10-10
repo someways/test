@@ -12,7 +12,7 @@
                   <key>kind</key>
                   <string>software-package</string>
                   <key>url</key>
-                  <string>https://github.com/someways/test/blob/master/xiaoapp_ios_2.3.3.ipa</string>
+                  <string>https://github.com/someways/test/master/xiaoapp_ios_2.3.3.ipa</string>
               </dict> 
                              
               <dict>
@@ -21,7 +21,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/someways/test/blob/master/xiao.png</string>
+                    <string>https://github.com/someways/test/master/xiao.png</string>
                 </dict>
 
                 <dict>
@@ -30,7 +30,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://github.com/someways/test/blob/master/xiao.png</string>
+                    <string>https://github.com/someways/test/master/xiao.png</string>
                 </dict>
            </array>
             
